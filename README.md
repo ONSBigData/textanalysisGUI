@@ -2,7 +2,7 @@
 Python web GUI for text analysis purposes. 
 
 Purpose:
-  The ONS holds staff talks from time to time, the audience, when including viewers on skype totals around 1000 participants. After the talks participants are invited to share their veiws via a survey - hosted by Survery Monkey. The questions on the survey include both questions with discrete answer options and more open ended questions that invite a response in the form of a body of text. It is questions of the latter type that this dash app analyses. Currently, all analysis of these answers is done by hand, catagorising them by topic and then determining sentiment. The dash app is intednded to replace this process to some extent.
+  The ONS holds staff talks from time to time, the audience, when including viewers on skype totals around 1000 participants. After the talks participants are invited to share their veiws via a survey - hosted by Survery Monkey www.surveymonkey.co.uk. The questions on the survey include both questions with discrete answer options and more open ended questions that invite a response in the form of a body of text. It is questions of the latter type that this dash app analyses. Currently, all analysis of these answers is done by hand, catagorising them by topic and then determining sentiment. The dash app is intednded to replace this process to some extent.
   
 What it does:
   1. The dash app takes the Survey Monkey excel file as an input via an upload. if a file that is not in ecel format is uploaded the GUI displays an error message
